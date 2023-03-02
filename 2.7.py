@@ -1,0 +1,5 @@
+n = int(input("enter number : "))
+print(n)
+new_n = str(n)
+print(len(new_n))
+print(new_n[::-1])
